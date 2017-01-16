@@ -6,6 +6,9 @@ A very simple convenience wrapper around hyperopt for fast prototyping with kera
 pip install hyperas
 ```
 
+## Quick Start Jupyter Notebook in Python2
+https://github.com/bigsnarfdude/hyperas/blob/master/examples/simple_notebook.ipynb
+
 ## Quick start
 Assume you have an existing keras model like the following.
 ```{python}
